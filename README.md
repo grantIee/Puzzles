@@ -2,14 +2,18 @@
 
 *This is where I train my skills for data science and general coding exercises...*
 
-<center>(!Po)[http://www.dreamworks.com/kungfupanda/images/uploads/characters/po_action.png]</center>
+
+<p align = "center"> 
+  <img src = "http://www.dreamworks.com/kungfupanda/images/uploads/characters/po_action.png", alt="Po">
+</p>
 
 ------
 
 **LeetCode Exercises**
-|#|Title|Level of Difficult|Main Concepts|Date Attempted|Date Completed|Attempts|
-|:-:|:-:|:----------------:|:-----------:|:------------:|:------------:|:------:|
-|33|Search in Rotated Sorted Array|Medium|Array, Binary Search|01 May 2018||
+
+|#|Title |Level of Difficult |Main Concepts|Date Attempted|Date Completed|Attempts|
+|:--:|:---:|:----------------:|:-----------:|:------------:|:------------:|:------:|
+|33|Search in Rotated Sorted Array|Medium|Array, Binary Search|01 May 2018|||
 
 
 
