@@ -25,7 +25,7 @@
 
 -------
 
-Setting up Docker on Local:
+**Setting up Docker on Local:**
 
 1. Load the image locally: `docker build . -t jupyter`        
 
