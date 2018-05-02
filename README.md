@@ -33,7 +33,7 @@ Setting up Docker on Local:
 
 3. Run the image and construct a detached container: `docker run -d -p 8888:8888 -v jupyter_store: /home/jupyter jupyter`
 
-*creds to (Kostis Tsaprailis)[https://tsaprailis.com/2017/10/10/Docker-for-data-science-part-1-building-jupyter-container/] for making the most comprehensible guide for setting this up!*
+*creds to [Kostis Tsaprailis](https://tsaprailis.com/2017/10/10/Docker-for-data-science-part-1-building-jupyter-container/) for making the most comprehensible guide for setting this up!*
 
 ------
 
