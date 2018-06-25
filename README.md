@@ -29,7 +29,7 @@
 
 1. Load the image locally: `docker build . -t jupyter`        
 
-2. Run the image and construct a detached container: `docker run -d -p 8888:8888 -v <directory this folder is in>/Puzzles/<exercise class>:/home/jupyter jupyter`
+2. Run the image and construct a detached container: `docker run -d -p 8888:8888 -v <directory this folder is in>:/home/jupyter jupyter`
 
 **Or run `lcPractice.sh` for LC questions... :bowtie:**
 
