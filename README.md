@@ -29,7 +29,7 @@
 
 1. Load the image locally: `docker build . -t jupyter`        
 
-2. Run the image and construct a detached container: `docker run -d -p 8888:8888 -v <directory this folder is in>:/home/jupyter jupyter`
+2. Run the image and construct a detached container: `docker run -d -p 8888:8888 -v <path to directory you want to save jupyter files into>:/home/jupyter jupyter`
 
 **Or run `lcPractice.sh` for LC questions... :bowtie:**
 
